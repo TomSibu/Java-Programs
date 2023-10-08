@@ -58,7 +58,7 @@ public class MatrixMultiplication {
 			
 		}
 		else {
-			System.out.println("Multiplication not possible");
+			System.out.println("Multiplication not possible !");
 		}
 
 	}
