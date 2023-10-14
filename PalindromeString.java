@@ -1,5 +1,5 @@
 /**************************************************************************************
- * File				:	PalindromeString.java
+ * File	            :	PalindromeString.java
  * Description      :   Program to check whether a string is Palindrome or not.
  * Author           :   Tom SIbu
  * Version          :   1.0
@@ -18,7 +18,7 @@ public class PalindromeString {
         String t = new String();
         System.out.println("Enter the String :");
         s = c.nextLine();
-        
+
         n = s.length();
         t = s;
         s = s.toLowerCase();
