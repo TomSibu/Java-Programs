@@ -33,7 +33,7 @@ public class FrequencyOfCharacter {
             }
         }
 
-        System.out.println("THe frequency count of "+ch+" is : "+count);
+        System.out.println("The frequency count of "+ch+" is : "+count);
 
     }
 
