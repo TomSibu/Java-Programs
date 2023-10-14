@@ -15,16 +15,16 @@ public class PalindromeString {
         Scanner c = new Scanner(System.in);
         int i,n,j;
         String s = new String();
+        String t = new String();
         System.out.println("Enter the String :");
         s = c.nextLine();
-        String t = new String();
 
         n = s.length();
         t = s;
         s = s.toLowerCase();
 
         for (i=0,j=n-1;i<j;i++,j--) {
-            
+
             if (s.charAt(i) != s.charAt(j)) {
                 System.out.println(t+" is not a Palindrome.");
                 break;
