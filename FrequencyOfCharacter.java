@@ -1,7 +1,7 @@
 /**************************************************************************************
  * File	            :	FrequencyOfCharacter.java
  * Description      :   Program to find the frequency of given character in array.
- * Author           :   Tom SIbu
+ * Author           :   Tom Sibu
  * Version          :   1.0
  * Date             :   14/10/23
 ***************************************************************************************/

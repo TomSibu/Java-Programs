@@ -1,7 +1,7 @@
 /**************************************************************************************
  * File	            :	MatrixMultiplication.java
  * Description      :   Program to find product of 2 matrices.
- * Author           :   Tom SIbu
+ * Author           :   Tom Sibu
  * Version          :   1.0
  * Date             :   14/10/23
 ***************************************************************************************/

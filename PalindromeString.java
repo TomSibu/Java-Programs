@@ -1,7 +1,7 @@
 /**************************************************************************************
  * File	            :	PalindromeString.java
  * Description      :   Program to check whether a string is Palindrome or not.
- * Author           :   Tom SIbu
+ * Author           :   Tom Sibu
  * Version          :   1.0
  * Date             :   14/10/23
 ***************************************************************************************/
