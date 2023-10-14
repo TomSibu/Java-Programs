@@ -1,4 +1,10 @@
-//Program to find product of two matrices
+/**************************************************************************************
+ * File				:	MatrixMultiplication.java
+ * Description      :   Program to find product of 2 matrices.
+ * Author           :   Tom SIbu
+ * Version          :   1.0
+ * Date             :   14/10/23
+***************************************************************************************/
 
 import java.util.Scanner;
 

@@ -1,5 +1,11 @@
-//Program to convert an Octal number to its Binary number counterpart.
-//Author : Tom Sibu
+/*********************************************************************************************
+ * File				:	MatrixMultiplication.java
+ * Description      :   Program to convert an Octal number to its Binary number counterpart.
+ * Author           :   Tom SIbu
+ * Version          :   1.0
+ * Date             :   14/10/23
+**********************************************************************************************/
+
 
 import java.util.Scanner;
 
