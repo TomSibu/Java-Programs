@@ -1,5 +1,5 @@
 /*********************************************************************************************
- * File				:	Octal_to_Binary.java
+ * File	            :	Octal_to_Binary.java
  * Description      :   Program to convert an Octal number to its Binary number counterpart.
  * Author           :   Tom SIbu
  * Version          :   1.0
