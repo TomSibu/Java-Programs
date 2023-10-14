@@ -18,7 +18,6 @@ public class PalindromeString {
         String t = new String();
         System.out.println("Enter the String :");
         s = c.nextLine();
-
         n = s.length();
         t = s;
         s = s.toLowerCase();
