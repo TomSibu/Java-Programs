@@ -52,6 +52,5 @@ public class ShapesAbstract {
         b.numberOfSides();
         c.numberOfSides();
     }
-
-    
+  
 }
