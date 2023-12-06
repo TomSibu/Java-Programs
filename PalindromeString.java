@@ -13,7 +13,7 @@ public class PalindromeString {
     public static void main(String[] args) {
         
         Scanner c = new Scanner(System.in);
-        int i,n,j;
+        int i,n,j,flag=0;
         String s = new String();
         String t = new String();
         System.out.println("Enter the String :");
@@ -27,14 +27,13 @@ public class PalindromeString {
 
             if (s.charAt(i) != s.charAt(j)) {
                 System.out.println(t+" is not a Palindrome.");
-                break;
-            }
-
-            else {
-                System.out.println(t+" is a Palindrome.");
+                flag=1;
                 break;
             }
         }
+        if (flag==0) {
+                    System.out.println(t+" is a Palindrome.");
+                }
 
     }
 
