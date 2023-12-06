@@ -7,8 +7,6 @@
  * Date             :   6/12/2023
 *******************************************************************************************************/
 
-package Lab8;
-
 import java.util.*;
 
 public class ThreadSynchronization {
