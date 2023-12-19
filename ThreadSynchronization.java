@@ -57,7 +57,7 @@ synchronized void printTable() {
 	Scanner s=new Scanner(System.in);
 	int n;
 	System.out.print("Enter the value of n: ");
-	n=Integer.parseInt(s.next());
+	n=s.nextInt();
  	for(int i=1;i<=10;i++) {  
   		System.out.println(n+" x "+i+" = "+n*i);  
     	try {  
